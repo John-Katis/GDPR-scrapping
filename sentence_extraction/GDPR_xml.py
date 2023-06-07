@@ -52,7 +52,7 @@ for i in range(11):
 # EACH OF THEM CONTAIN 4 KEYS (article, section, paragraph, subparagraph)
 # EACH OF THE 4 KEYS CAN HAVE A VALUE OR None
 with open(
-            r'C:\Users\john1\PycharmProjects\GDPR_scrapping\sheet_to_word_to_reference_list_dictionary.pkl',
+        r'/sheet_to_word_to_reference_list_dictionary.pkl',
             'rb'
     ) as f:
     dictionary1 = pickle.load(f)

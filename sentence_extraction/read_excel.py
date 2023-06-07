@@ -14,8 +14,9 @@ def save_in_project(dictionary_to_save, dict_name):
 
 
 all_sheets = pd.read_excel(r'C:\Users\john1\Desktop\Work\sentence_extraction_GDPR\all_referenced.xlsm', sheet_name=None)
-sheet_keys = ['G', 'H', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'S', 'T', 'U', 'V', 'W', 'X', 'Y'] # removed 'Z'
-                      # 'I', 'J'                         # 'R'
+sheet_keys = ['G', 'H', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'S', 'T', 'U', 'V', 'W', 'X', 'Y']
+# removed 'Z', 'I', 'J', 'R'
+
 # Some "Reference article" start with "Art. " (and one " Art. ")- account for that
 # Interesting columns: "Word" and "Reference article"
 # Sheets M, N, U have more than one "Reference article"
