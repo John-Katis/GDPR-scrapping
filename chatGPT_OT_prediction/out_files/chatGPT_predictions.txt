@@ -1,0 +1,885 @@
+Protection Based-on-question-2 1 
+Personal data Based-on-question-1 1 
+Fundamental rights Based-on-question-4 1 
+Freedoms Based-on-question-4 1 
+Free movement Based-on-question-2 1 
+Personal data Q2 2 
+Automated means Q1 2 
+Filing system Q2 2 
+Competent authorities Q2 2 
+Prevention Q2 2 
+Investigation Q2 2 
+Detection Q2 2 
+Prosecution Q2 2 
+Criminal offences Q4 2 
+Public security Q2 2 
+Union institutions Q2 2 
+Union legal acts Q2 2 
+Liability rules Q2 2 
+processing Q1 3 
+personal data Q1 & Q2 3 
+establishment Q2 3 
+controller Q2 3 
+processor Q2 3 
+in the Union Q1 3 
+the offering of goods or services Q2 3 
+payment Q1 3 
+data subject Q2 3 
+monitoring of behavior Q2 & Q3 3 
+place where Member State law applies Q2 & Q3 3 
+personal data Q2 4 
+ identifiable natural person Q2 4 
+ processing Q2 4 
+set of operations Q1 4 
+ automated means Q1 4 
+restriction of processing Q2 4 
+ profiling Q2 4 
+automated processing Q1 4 
+ personal aspects Q2 4 
+predict aspects Q2 4 
+ pseudonymisation Q2 4 
+attributed Q1 4 
+filing system Q2 4 
+controller Q2 4 
+public authority Q1 4 
+specific criteria Q2 4 
+processor Q2 4 
+recipient Q2 4 
+third party Q2 4 
+consent Q2 4 
+freely given Q1 4 
+specific Q1 4 
+informed Q1 4 
+unambiguous Q1 4 
+indication Q1 4 
+data subject Q2 4 
+personal data breach Q2 4 
+genetic data Q2 4 
+inherited or acquired genetic characteristics Q2 4 
+give unique information Q1 4 
+biometric data Q2 4 
+ physiological or behavioural characteristics Q2 4 
+allows or confirms unique identification Q2 4 
+data concerning health Q2 4 
+mental health Q1 4 
+provision of health care services Q2 4 
+main establishment Q2 4 
+processor with establishments Q1 4 
+specific obligations Q2 4 
+representative Q2 4 
+enterprise Q2 4 
+group of undertakings Q2 4 
+binding corporate rules Q2 4 
+supervisory authority Q2 4 
+independent public authority Q1 4 
+supervisory authority concerned Q2 4 
+processing of personal data Q2 4 
+context of the activities Q1 4 
+substantially affects or is likely to substantially affect Q2 4 
+relevant and reasoned objection Q2 4 
+fundamental rights and freedoms Q2 4 
+information society service Q2 4 
+international organisation Q2 4 
+Lawful 1 5 
+ fair 2 5 
+ transparent 2 5 
+ legitimate 2 5 
+ adequate 3 5 
+ relevant 3 5 
+ necessary 3 5 
+ accurate 4 5 
+ up to date 4 5 
+ identify 5 5 
+ security 1. 5 
+Lawful Q1 6 
+Necessary Q1 6 
+Legitimate Q4 6 
+Fair Q4 6 
+Public interest Q4 6 
+Proportionate Q4 6 
+Compatible Q1 6 
+Consent Q1 7 
+Personal data Q2 7 
+Clear and plain language Q2 7 
+Withdraw Q3 7 
+Freely given Q4 7 
+Necessary Q4 7 
+Personal data Q2 15 
+Processing Q1 15 
+Categories Q1 15 
+Recipients Q1 15 
+Envisaged period Q1 15 
+Criteria Q1 15 
+Source Q1 15 
+Automated decision-making Q2 15 
+Transferred Q1 15 
+Appropriate safeguards Q2 15 
+Copy Q1 15 
+Reasonable fee Q1 15 
+Electronic means Q1 15 
+Adversely affect Q4 15 
+Inaccurate 1 16 
+Incomplete 1 16 
+Rectification 2 16 
+Purposes 2 16 
+Processing 2 16 
+Supplementary 1 16 
+Right 4 16 
+Erasure 1 17 
+Personal data 2 17 
+Controller 2 17 
+Consent 2 17 
+Legal obligation 2 17 
+Unlawfully processed 2 17 
+Information society services 2 17 
+Technical measures 2 17 
+Freedom of expression and information 3 17 
+Public interest 3 17 
+Archiving purposes 3 17 
+Scientific or historical research purposes 3 17 
+Statistical purposes 3 17 
+Legal claims 3 17 
+accordance Q2 18 
+ accuracy Q1 18 
+unlawful Q3 18 
+opposes Q4 18 
+requests Q1 18 
+required Q2 18 
+objection Q4 18 
+verification Q1 18 
+legitimate Q4 18 
+important Q2 18 
+informed Q2 18 
+lifted Q1 18 
+personal data Q2 19 
+rectification Q2 19 
+erasure Q2 19 
+restriction of processing Q2 19 
+recipient Q2 and Q3 19 
+proportionate effort Q4 19 
+inform Q1 19 
+Personal data Q2 20 
+Structured Q1 20 
+Commonly used Q2 20 
+Machine-readable Q1 20 
+Consent Q4 20 
+Contract Q4 20 
+Automated means Q2 20 
+Technically feasible Q1 20 
+Public interest Q4 20 
+Official authority Q4 20 
+Rights Q4 20 
+Freedoms Q4 20 
+Object Q1 21 
+Marketing Q2 21 
+Compelling legitimate grounds Q2 21 
+First communication Q2 21 
+Information society services Q2 21 
+Scientific or historical research purposes Q2 21 
+Public interest Q2 21 
+Automated 2 22 
+Individual 2 22 
+Decision-making 2 22 
+Profiling 2 22 
+(Restrict) Q1 23 
+(Essence) Q1 23 
+(National security) Q2 23 
+(Defence) Q2 23 
+(Public security) Q2 23 
+(Prevention) Q2 23 
+(Investigation) Q2 23 
+(Detection) Q2 23 
+(Prosecution) Q2 23 
+(Criminal offences) Q2 23 
+(Execution) Q2 23 
+(Threats) Q2 23 
+(Public interest) Q2 23 
+(Economic interest) Q2 23 
+(Financial interest) Q2 23 
+(Monetary matters) Q2 23 
+(Budgetary matters) Q2 23 
+(Taxation matters) Q2 23 
+(General public interest) Q2 23 
+(Public health) Q2 23 
+(Social security) Q2 23 
+(Judicial independence) Q2 23 
+(Judicial proceedings) Q2 23 
+(Breaches of ethics) Q2 23 
+(Regulated professions) Q2 23 
+(Monitoring) Q2 23 
+(Inspection) Q2 23 
+(Regulatory function) Q2 23 
+(Protection) Q2 23 
+(Civil law claims) Q2 23 
+(Processing) Q2 23 
+(Personal data) Q2 23 
+(Abuse) Q2 23 
+(Unlawful access) Q2 23 
+(Transfer) Q2 23 
+(Controller) Q2 23 
+(Storage periods) Q2 23 
+(Rights and freedoms) Q2 23 
+(Data subjects) Q2 23 
+(Restriction) Q2 23 
+(Information) Q2 23 
+Appropriate Q2 24 
+Technical and organisational measures Q1 24 
+Nature Q2 24 
+Scope Q2 24 
+Context Q2 24 
+Purposes Q2 24 
+Risks Q2 24 
+Likelihood Q2 24 
+Severity Q2 24 
+Rights Q4 24 
+Freedoms Q4 24 
+Processing Q2 24 
+Regulation Q2 24 
+Proportionate Q2 24 
+Data protection policies Q1 24 
+Adherence Q3 24 
+Approved codes of conduct Q1 24 
+Article 40 Q2 24 
+Approved certification mechanisms Q1 24 
+Article 42 Q2 24 
+Appropriate 1 25 
+Nature 2 25 
+Purposes 2 25 
+Risks 2 25 
+Rights 2 25 
+Processing 2 25 
+Technical 2 25 
+Organisational 2 25 
+Principles 2 25 
+Minimisation 2 25 
+Safeguards 2 25 
+Requirements 2 25 
+Personal Data 2 25 
+Accessibility 2 25 
+Certification Mechanism 3 25 
+Joint controllers Q1 26 
+responsibilities Q2 26 
+compliance Q2 26 
+exercising Q2 26 
+rights Q2 26 
+duties Q2 26 
+information Q2 26 
+arrangement Q3 26 
+contact point Q1 26 
+essence Q2 26 
+data subject Q2  Q3 26 
+representative Q1 27 
+large scale Q2 27 
+risk Q2 27 
+public authority Q2 27 
+established Q1 27 
+compliance Q4 27 
+Processing 1 28 
+Controller 2 28 
+Processor 2  3 28 
+Personal data 2 28 
+Technical and organisational measures 1 28 
+Confidentiality 2 28 
+Data subjects rights 2 28 
+Compliance 2 28 
+Liability 2 28 
+Code of conduct 2 28 
+Certification mechanism 2 28 
+Standard contractual clauses 3  6 28 
+Supervisory authority 2 28 
+Electronic form 1 28 
+Purposes and means of processing 3 28 
+processing activities Q2 30 
+personal data Q2 30 
+recipients Q1 30 
+third country Q1 30 
+suitable safeguards Q4 30 
+envisaged time limits Q1 30 
+technical and organisational security measures Q2 30 
+implementation Q1 32 
+ costs Q1 32 
+ nature Q2 32 
+ scope Q2 32 
+ context Q2 32 
+ purposes Q2 32 
+ risk Q2 32 
+ likelihood Q2 32 
+ severity Q2 32 
+ security Q2 32 
+ availability Q2 32 
+ resilience Q2 32 
+ incident Q2 32 
+ testing Q2 32 
+ assessing Q2 32 
+ evaluating Q2 32 
+ processing Q2 32 
+ account Q2 32 
+ destruction Q2 32 
+ loss Q2 32 
+ alteration Q2 32 
+ disclosure Q2 32 
+ access Q2 32 
+ transmitted Q2 32 
+ stored Q2 32 
+ adherence Q3 32 
+ code of conduct Q3 32 
+ certification mechanism Q3 32 
+ compliance Q4 32 
+ instructions Q4 32 
+personal data breach Q2 33 
+risk to the rights and freedoms of natural persons Q2  Q4 33 
+without undue delay Q1 33 
+competent Q4 33 
+not later than Q1 33 
+processor Q2 33 
+categories Q1 33 
+approximate Q1 33 
+data protection officer Q2 33 
+likely consequences Q2 33 
+remedial action Q2 33 
+compliance Q4 33 
+high risk 1 34 
+nature 2 34 
+appropriate 1 34 
+personal data unintelligible 1 34 
+subsequent measures 2 34 
+disproportionate effort 3 34 
+High risk 1 35 
+Personal data 2 35 
+Special categories of data 2 35 
+Criminal convictions and offences 2 35 
+Large scale 2 35 
+Legitimate interest 2 35 
+Risks 3 35 
+Safeguards 3 35 
+Security measures 3 35 
+Demonstrate compliance 3 35 
+Codes of conduct 4 35 
+Data subjects or their representatives 5 35 
+Legal basis 1 35 
+Change of the risk 1 35 
+high risk Q2 36 
+infringe Q2 36 
+insufficiently identified Q2 36 
+complexity Q2 36 
+respective responsibilities Q1 36 
+intended processing Q2 36 
+safeguards Q1 36 
+data protection officer Q1 36 
+data protection impact assessment Q1 36 
+legislative measure Q2 36 
+public interest Q4 36 
+social protection Q2 36 
+public health Q2 36 
+large scale Q2 37 
+professional qualities Q2 37 
+public authority or body Q1 37 
+designate Q1 37 
+special categories of data Q2 37 
+accessibility Q1 37 
+organisational structure and size Q2 37 
+data protection officer Q1  Q4 37 
+data protection law Q2 37 
+tasks Q2 37 
+involved Q2 38 
+personal data Q1 38 
+tasks Q1 38 
+instructions Q2 38 
+dismissed Q3 38 
+report Q2 38 
+issues Q2 38 
+confidentiality Q2 38 
+fulfil Q1 38 
+processing Q2 39 
+obligations Q2 39 
+compliance Q2 39 
+policies Q2 39 
+responsibilities Q2 39 
+awareness-raising Q2 39 
+training Q2 39 
+performance Q2 39 
+impact assessment Q2 39 
+cooperate Q2 39 
+contact point Q2 39 
+risk Q2 39 
+Codes of conduct Q2 40 
+Fair and transparent processing Q2 40 
+Legitimate interests Q2 40 
+Collection of personal data Q2 40 
+Pseudonymisation of personal data Q2 40 
+Information provided to the public and to data subjects Q2 40 
+Exercise of the rights of data subjects Q2 40 
+Information provided to and the protection of children Q2 40 
+Measures and procedures Q2 40 
+Security of processing Q2 40 
+Notification of personal data breaches to supervisory authorities and the communication of such personal data breaches to data subjects Q2 40 
+Transfer of personal data to third countries or international organisations Q2 40 
+Out-of-court proceedings and other dispute resolution procedures Q2 40 
+appropriate level  Q1 41 
+expertise  Q1 41 
+compliance  Q2 41 
+code of conduct  Q2 41 
+independence  Q1 41 
+eligibility  Q1 41 
+provisions  Q2 41 
+conflict of interests  Q4 41 
+draft criteria  Q2 41 
+appropriate action  Q1 41 
+infringement  Q2 41 
+suspension  Q1 41 
+exclusion  Q1 41 
+reasons  Q2 41 
+revocation  Q3 41 
+conditions  Q2 41 
+public authorities and bodies  Q2 41 
+encourage Q3 42 
+ data protection certification mechanisms Q2 and Q4 42 
+ controllers Q1 42 
+processors Q1 42 
+ appropriate safeguards Q2 42 
+data subjects Q1 42 
+voluntary Q3 42 
+transparent Q2 42 
+compliance Q2 42 
+supervisory authorities Q1 42 
+competent Q2 42 
+criteria Q2 42 
+common certification Q2 42 
+procedures Q1 42 
+renewed Q2 42 
+register Q1 42 
+publicly available Q2. 42 
+Appropriate level Q2 43 
+Expertise Q2 43 
+Demonstrated Q2 43 
+Independence Q2 43 
+Subject-matter Q2 43 
+Complaints Q2 43 
+Proper assessment Q2 43 
+Renewed Q2 43 
+Criteria Q2 43 
+Transparent Q2 43 
+Easily accessible Q2 43 
+Actions taken Q2 43 
+Technical standards Q2 43 
+Certification mechanisms Q2 43 
+Data protection seals and marks Q2 43 
+Promote and recognise Q2 43 
+transfer Q2 44 
+personal data Q2 44 
+third country Q1 44 
+international organisation Q2 44 
+controller Q2 44 
+processor Q2 44 
+onward transfers Q2 44 
+protection Q4 44 
+Third country Q1 45 
+International organisation Q1 45 
+Adequate level of protection Q2 45 
+Relevant legislation Q2 45 
+Public security Q2 45 
+National security Q2 45 
+Data protection rules Q2 45 
+Professional rules Q2 45 
+Security measures Q2 45 
+Onward transfer Q2 45 
+Case-law Q2 45 
+Data subject rights Q2 45 
+Administrative and judicial redress Q2 45 
+Independent supervisory authorities Q2 45 
+Enforcement powers Q2 45 
+Developments Q2 45 
+Implementing act Q3 45 
+Supervisory authority Q3 45 
+Examination procedure Q3 45 
+Urgency Q4 45 
+Human rights Q4 45 
+Fundamental freedoms Q4 45 
+Effective functioning Q4 45 
+Legally binding conventions Q4 45 
+Participation in multilateral or regional systems Q4 45 
+Protection of personal data Q4 45 
+Periodic review Q4 45 
+Remedying the situation Q4 45 
+Transfers of personal data Q4 45 
+Official Journal of the European Union Q4 45 
+Replaced or repealed Q4 45 
+appropriate safeguards Q2 46 
+personal data Q1 46 
+data subject rights Q1 46 
+international organisation Q1 46 
+binding corporate rules Q2 46 
+standard data protection clauses Q2 46 
+supervisory authority Q4 46 
+competent supervisory authority Q4 46 
+consistency mechanism Q1 46 
+Member State Q1 46 
+Directive 95/46/EC Q2 46 
+Competent Q1 47 
+Binding corporate rules Q2 47 
+Enforceable rights Q1 47 
+Data transfers Q2 47 
+Legally binding nature Q2 47 
+General data protection principles Q2 47 
+Onward transfers Q1 47 
+Liability Q1 47 
+Complaint procedures Q2 47 
+Corrective actions Q1 47 
+Cooperation mechanism Q2 47 
+Format and procedures Q2 47 
+personal data Q2 48 
+international agreement Q2 48 
+mutual legal assistance treaty Q1 48 
+transfer Q1 48 
+recognised Q4 48 
+enforceable Q4 48 
+grounds Q2 48 
+Personal data Q1 49 
+Third country Q1 49 
+International organisation Q1 49 
+Risks Q2 49 
+Performance of a contract Q2 49 
+Public interest Q2 49 
+Legitimate interests Q2 49 
+Vital interests Q2 49 
+Compelling Q3 49 
+Suitable safeguards Q3 49 
+Public authorities Q4 49 
+Important reasons Q4 49 
+Specific categories Q4 49 
+appropriate Q2 50 
+international cooperation mechanisms Q1 50 
+effective enforcement Q1 50 
+protection of personal data Q2 50 
+international mutual assistance Q1 50 
+complaint referral Q1 50 
+investigative assistance Q1 50 
+information exchange Q1 50 
+appropriate safeguards Q2 50 
+fundamental rights and freedoms Q2 50 
+relevant stakeholders Q2 50 
+furthering international cooperation Q2 50 
+personal data protection legislation and practice Q2 50 
+jurisdictional conflicts Q2 50 
+third countries Q2 50 
+supervisory authority 2  3 51 
+fundamental rights 2 51 
+natural persons 2 51 
+processing 2 51 
+free flow 2 51 
+consistent application 2 51 
+cooperate 2 51 
+mechanism 2 51 
+compliance 2 51 
+provisions 2 51 
+Complete independence Q1 52 
+External influence Q2 52 
+Incompatible occupation Q2 52 
+Human, technical and financial resources, premises and infrastructure Q1 52 
+Exclusive direction Q1 52 
+Public annual budgets Q3 52 
+Appointment Q1 53 
+Qualifications Q1 53 
+Experience Q1 53 
+Skills Q1 53 
+Serious misconduct Q4 53 
+Conditions Q4 53 
+supervisory authority Q2 54 
+qualifications Q2 54 
+appointment Q2 54 
+duration Q1 54 
+reappointment Q2 54 
+conditions Q2 54 
+professional secrecy Q2  54 
+confidential information Q2 54 
+infringements Q2 54 
+Competent Q1 55 
+Tasks Q1 55 
+Powers Q1 55 
+Territory Q2 55 
+Processing Q2 55 
+Public Authorities Q2 55 
+Private bodies Q2 55 
+Judicial Capacity Q2 55 
+Supervise Q3 55 
+Competent 1 56 
+Possible infringement 2 56 
+Substantially 2 56 
+Matter 2 56 
+Delay 2 56 
+Lead supervisory authority 3 4 5 56 
+Draft decision 4 56 
+processing 1 57 
+risks 1 57 
+rights 1 57 
+obligations 1 57 
+personal data 1 57 
+complaint 1 57 
+facilitate 2 57 
+free of charge 5 57 
+reasonable fee 1 57 
+administrative costs 1 57 
+manifestly unfounded 3 57 
+excessive 3 57 
+burden 1 57 
+investigative powers Q2 58 
+data protection audits Q2 58 
+certifications Q2 58 
+infringement Q1 58 
+personal data Q1 58 
+premises Q1 58 
+corrective powers Q2 58 
+warnings Q2 58 
+reprimands Q2 58 
+comply Q1 58 
+certification Q2 58 
+administrative fine Q1 58 
+suspension Q1 58 
+authorisation and advisory powers Q2 58 
+opinions Q2 58 
+codes of conduct Q2 58 
+certification bodies Q2 58 
+standard data protection clauses Q2 58 
+contractual clauses Q2 58 
+binding corporate rules Q2 58 
+judicial remedy Q1 58 
+legal proceedings Q1 58 
+additional powers Q3 58 
+Consensus Q2 60 
+Supervisory authorities concerned Q2 60 
+Mutual assistance Q1 60 
+Investigations Q2 60 
+Implementation of a measure Q2 60 
+Relevant information Q1 60 
+Draft decision Q1 60 
+Objection Q1 60 
+Agreement Q1 60 
+Summary of the relevant facts and grounds Q2 60 
+Complaint Q1 60 
+Necessary measures Q1 60 
+Urgent need Q4 60 
+Standardised format Q2 60 
+mutual assistance Q2 61 
+relevant information Q1 61 
+investigation Q2 61 
+necessary information Q1 61 
+competent Q4a 61 
+infringe Q4b 61 
+reasons Q1 61 
+standardised format Q1 61 
+indemnify Q4 61 
+provisional measure Q2 61 
+appropriate Q2 62 
+joint operations Q2 62 
+investigative powers Q2 62 
+responsibility Q2 62 
+damage Q1  Q4 62 
+reimburse Q2 62 
+provisional measure Q2 62 
+urgent Q2 62 
+ published All based on Question 1 65 
+Exceptional circumstances Q2 66 
+Urgent need Q2 66 
+Provisional measures Q1 66 
+Legal effects Q1 66 
+Final measures Q2 66 
+Competent Q4 66 
+Appropriate measure Q2 66 
+Urgent opinion Q1 66 
+Urgent binding decision Q1 66 
+Simple majority Q1 66 
+General scope Q2 67 
+Electronic means Q2 67 
+Standardised format Q1  Q3 67 
+Examination procedure Q2 67 
+Established Q3 68 
+Legal personality Q2  Q4 68 
+Represented Q1 68 
+Composed Q2 68 
+Monitoring Q1 68 
+Activities Q2 68 
+Applicable Q2 68 
+Principles Q1  Q2  68 
+Rules Q1  Q2 68 
+Correspond Q1 68 
+consistent 1 70 
+protection 4 70 
+personal data 1 70 
+application 2 70 
+issue 3 70 
+guidelines 1 70 
+recommendations 1 70 
+best practices 1 70 
+procedures 2 70 
+erasing 2 70 
+links 2 70 
+copies 2 70 
+replications 2 70 
+publicly available communication services 2 70 
+profiling 2 70 
+personal data breaches 2 70 
+undue delay 2 70 
+high risk 4 70 
+data transfers 2 70 
+binding corporate rules 2 70 
+codes of conduct 2 70 
+data protection certification mechanisms 2 70 
+data protection seals 2 70 
+accreditation 2 70 
+certification bodies 2 70 
+icons 2 70 
+adequacy of the level of protection 4 70 
+draft decisions of supervisory authorities 3 70 
+consistency mechanism 2 70 
+promote 2 70 
+training programmes 2 70 
+personnel exchanges 2 70 
+knowledge 2 70 
+documentation 2 70 
+legislation 2 70 
+protection Q2 71 
+natural persons Q2 71 
+processing Q2 71 
+relevant Q2 71 
+third countries Q2 71 
+international organisations Q2 71 
+review Q2 71 
+practical application Q2 71 
+guidelines Q2 71 
+recommendations Q2 71 
+best practices Q2 71 
+binding decisions Q2 71 
+Chair Q2 74 
+tasks Q1 74 
+meetings Q1 74 
+agenda Q1 74 
+decisions Q1 74 
+lead supervisory authority Q3 74 
+supervisory authorities Q2 74 
+timely Q4 74 
+performance Q1 74 
+consistency mechanism Q2 74 
+Board Q2 74 
+rules of procedure Q1 74 
+Confidential Q1 76 
+Access Q1 76 
+Documents Q1 76 
+Governed Q4 76 
+Infringes Q1 77 
+Personal data Q2 77 
+Supervisory authority Q2 77 
+Progress Q2 77 
+Outcome Q2 77 
+Judicial remedy Q2 77 
+Complaint Q3 77 
+Alleged Q3 77 
+Effective Q1 79 
+Judicial remedy Q2 79 
+Rights Q2 79 
+Processing Q2 79 
+Non-compliance Q2 79 
+Proceedings Q2 79 
+Establishment Q1 79 
+Habitual residence Q2 79 
+Public authority Q1 79 
+not-for-profit body Q1 80 
+public interest Q4 80 
+compensation Q1 80 
+processing Q2 80 
+Material or non-material damage Q1 82 
+Compensation Q1 82 
+Liable Q2 82 
+Obligations Q2 82 
+Lawful instructions Q2 82 
+Responsible Q2 82 
+Event giving rise to the damage Q1 82 
+Entitled Q4 82 
+Court proceedings Q2 82 
+Administrative fines Q2 83 
+Infringements Q2 83 
+Nature Q1 83 
+Gravity Q1 83 
+Duration Q1 83 
+Processing Q2 83 
+Data subjects Q2 83 
+Damage Q1 83 
+Intentional Q1 83 
+Negligent Q1 83 
+Action taken Q1 83 
+Controller Q2 83 
+Processor Q2 83 
+Technical Q1 83 
+Organisational measures Q2 83 
+Infringement Q2 83 
+Supervisory authority Q2 83 
+Compliance Q1 83 
+Codes of conduct Q2 83 
+Certification mechanisms Q2 83 
+Undertaking Q1 83 
+Basic principles Q2 83 
+Conditions for consent Q2 83 
+Data subjects rights Q2 83 
+Transfers of personal data Q2 83 
+Third country Q1 83 
+International organisation Q1 83 
+Member State law Q2 83 
+Non-compliance Q2 83 
+Judicial remedy Q1 83 
+Legal system Q2 83 
+Competent supervisory authority Q1 83 
+National courts Q2 83 
+Equivalent effect Q1 83 
+provide Q2 88 
+rights and freedoms Q2 88 
+personal data Q2 88 
+employment context Q2 88 
+recruitment Q2 88 
+performance Q2 88 
+contract of employment Q2 88 
+law Q2 88 
+collective agreements Q2 88 
+management Q2 88 
+planning and organization of work Q2 88 
+equality and diversity Q2 88 
+health and safety Q2 88 
+employers or customers property Q2 88 
+exercise and enjoyment Q2 88 
+individual or collective basis Q2 88 
+termination of the employment relationship Q2 88 
+human dignity Q4 88 
+legitimate interests Q4 88 
+fundamental rights Q4 88 
+transparency of processing Q1 88 
+transfer Q1 88 
+undertakings Q1 88 
+enterprises engaged in a joint economic activity Q2 88 
+monitoring systems Q2 88 
+Processing Q2 89 
+Archiving purposes Q2 89 
+Public interest Q4 89 
+Scientific Q2 89 
+Historical research purposes Q2 89 
+Statistical purposes Q2 89 
+Appropriate safeguards Q2 89 
+Rights and freedoms Q2 89 
+Data subject Q1 89 
+Technical Q2 89 
+Organisational measures Q2 89 
+Data minimisation Q2 89 
+Pseudonymisation Q1 89 
+Further processing Q2 89 
+Identification of data subjects Q1 89 
+Achievement of specific purposes Q2 Q4 89 
+Derogations Q1 89 
+Union Q2 89 
+Member State law Q2 89 
+Likely to render impossible or seriously impair Q2 Q4 89 
+Fulfilment of those purposes Q2 Q4 89 
+Processing for the purposes Q2 89 
+evaluation Q2 97 
+transfer Q1 97 
+functioning Q1 97 
+cooperation Q1 97 
+consistency Q1 97 
+information Q1 97 
+amend Q4 97 
